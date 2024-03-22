@@ -74,7 +74,7 @@
     },
     {
       "type": "wireguard",
-      "tag": " Azarvpn_v2ray | Warp+3 ",
+      "tag": " Azarvpn_v2ray | Warp+4 ",
       "detour": " Azarvpn_v2ray | Warp ",
       "server": "jhn.dornabo.top",
       "server_port": 854,
