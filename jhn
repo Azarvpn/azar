@@ -22,7 +22,7 @@
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp+ ",
       "detour": " Azarvpn_v2ray | Warp ",
-      "server": "jhn1.dornabo.top",
+      "server": "jhn2.dornabo.top",
       "server_port": 854,
       
       "local_address": [
