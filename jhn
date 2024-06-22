@@ -4,16 +4,16 @@
     {
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp ",
-      "server": "jhn.dornabo.top",
-      "server_port": 908,
+      "server": "family.dornabo.top",
+      "server_port": 1843,
 
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8246:291:b4ed:ac41:9727/128"
+        "2606:4700:110:8478:b77e:eb96:987f:94ce/128"
       ],
-      "private_key": "iA4quiaQni0pC2y39bmTTtgJnPHC71onjK9ZZbd6JlI=",
+      "private_key": "aOCjoAO2O1ZYAAK4hlMn6kvpXHNM+T+lbQqCrzS/tmI=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [219,211,61],
+      "reserved": [218,13,146],
 
       "mtu": 1280,
       "fake_packets": "5-10"
@@ -22,16 +22,16 @@
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp+ ",
       "detour": " Azarvpn_v2ray | Warp ",
-      "server": "jhn2.dornabo.top",
-      "server_port": 854,
+      "server": "family.dornabo.top",
+      "server_port": 955,
       
       "local_address": [
           "172.16.0.2/32",
-          "2606:4700:110:844d:d55f:420f:1061:ed8/128"
+          "2606:4700:110:837d:b4a5:476f:366:2886/128"
       ],
-      "private_key": "IBX9NBER3xsd+TgypS34RPd+dFveTyJJtl+gghOpXnY=",
+      "private_key": "2OPg4MOsa8haU52EEOeC2QDHLnccejvKQ7orKOpU1Fw=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [19,198,165],  
+      "reserved": [182,2,253],  
 
       "mtu": 1120,
       "fake_packets": "5-10"
@@ -40,16 +40,16 @@
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp+2 ",
       "detour": " Azarvpn_v2ray | Warp ",
-      "server": "jhn3.dornabo.top",
-      "server_port": 908,
+      "server": "family.dornabo.top",
+      "server_port": 1843,
       
       "local_address": [
           "172.16.0.2/32",
-          "2606:4700:110:8a9f:775b:42bb:9ad8:bc0a/128"
+          "2606:4700:110:8c34:8cf1:32ef:ecee:c55f/128"
       ],
-      "private_key": "sGm/jt3/y4wencEsVfdPBaGO3uiEWG6ehAouKvPsaHU=",
+      "private_key": "IKLbSMxpLMYPfkNmnHENCVAWliYogq2jqyUlk1ZZZ0E=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [95,216,79],  
+      "reserved": [86,132,162],  
 
       "mtu": 1120,
       "fake_packets": "5-10"
@@ -58,16 +58,16 @@
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp+3 ",
       "detour": " Azarvpn_v2ray | Warp ",
-      "server": "jhn4.dornabo.top",
-      "server_port": 854,
+      "server": "family.dornabo.top",
+      "server_port": 1002,
       
       "local_address": [
           "172.16.0.2/32",
-          "2606:4700:110:8d6b:364c:371f:2d68:d051/128"
+          "2606:4700:110:84f0:e0e5:5f27:25d7:5f7a/12"
       ],
-      "private_key": "SGzKYzrV66R+RJhMu7DEFBdPWk88V6EU2bGVTpmiflo=",
+      "private_key": "oDEIy4qK+l9IKmKL5gcL9J+HzhbGsFAWNxeVTF80mW8=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [169,96,212],  
+      "reserved": [130,217,55],  
 
       "mtu": 1120,
       "fake_packets": "5-10"
@@ -76,16 +76,16 @@
       "type": "wireguard",
       "tag": " Azarvpn_v2ray | Warp+4 ",
       "detour": " Azarvpn_v2ray | Warp ",
-      "server": "jhn5.dornabo.top",
-      "server_port": 854,
+      "server": "family.dornabo.top",
+      "server_port": 4500,
       
       "local_address": [
           "172.16.0.2/32",
-          "2606:4700:110:8071:819:8561:a17b:320/128"
+          "2606:4700:110:8d76:3435:c6b8:97cb:c847/128"
       ],
-      "private_key": "QKtRUsWpAgldIFS7QJKvE3BIIuVjgI/Hx3FdVc8Yn2U=",
+      "private_key": "oOt4jIBqaBaO9yRj32mViM9OTuRUHuFsl0OriwKojFA=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [185,39,130],  
+      "reserved": [88,232,69],  
 
       "mtu": 1120,
       "fake_packets": "5-10"
